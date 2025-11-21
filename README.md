@@ -14,6 +14,7 @@ My experience includes 16S metagenomics, functional prediction, targeted transcr
 **Databases:** SILVA, Greengenes, RefSeq  
 **Methods:** Diversity analysis, differential abundance, QC workflows, functional prediction  
 **Languages:** R, Python, Bash  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendafrachoni&layout=compact)
 
 ### Selected Public Projects
