@@ -10,19 +10,16 @@ My experience includes 16S metagenomics, functional prediction, targeted transcr
 - Data visualization and statistical analysis
 
 ### Technical Skills
-**Languages:** R, Python, Bash  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendafrachoni&layout=compact)
-
 **Tools:** DADA2, QIIME2, phyloseq, DESeq2, MZmine, Snakemake, FastQC, GROMACS  
 **Databases:** SILVA, Greengenes, RefSeq  
 **Methods:** Diversity analysis, differential abundance, QC workflows, functional prediction
+**Languages:** R, Python, Bash  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendafrachoni&layout=compact)
 
 ### Selected Public Projects
-- **Assembly and long-read analysis**
-  Pipeline for long-read assembly and functional profiling using public datasets.
+- **Assembly and long-read analysis:** Pipeline for long-read assembly and functional profiling using public datasets.
 
-- **Bioinformatics Study Notebooks**  
-  Exploratory analyses and templates for microbial and multi-omics workflows.
+- **Bioinformatics Study Notebooks:** Exploratory analyses and templates for microbial and multi-omics workflows.
 
 ### Notes
 Some industry projects are not public due to IP restrictions.  
