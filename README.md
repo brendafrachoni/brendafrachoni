@@ -11,6 +11,8 @@ My experience includes 16S metagenomics, functional prediction, targeted transcr
 
 ### Technical Skills
 **Languages:** R, Python, Bash  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendafrachoni&layout=compact)
+
 **Tools:** DADA2, QIIME2, phyloseq, DESeq2, MZmine, Snakemake, FastQC, GROMACS  
 **Databases:** SILVA, Greengenes, RefSeq  
 **Methods:** Diversity analysis, differential abundance, QC workflows, functional prediction
