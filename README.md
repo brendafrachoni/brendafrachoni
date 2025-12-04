@@ -6,7 +6,7 @@ My experience includes 16S metagenomics, functional prediction, targeted transcr
 ### Main Interests
 - Microbiome analysis (skin, scalp, and environmental samples)
 - Multi-omics integration (taxonomic, functional, transcript, lipid data)
-- Reproducible pipelines (R, Snakemake, Bash)
+- Reproducible pipelines (R, Python, Snakemake, Bash)
 - Data visualization and statistical analysis
 
 ### Technical Skills
